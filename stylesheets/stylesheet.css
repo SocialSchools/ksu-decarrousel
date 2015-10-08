@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: #20a64b;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -117,7 +117,8 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   font-family: "Swanky and Moo Moo", Arial, sans-serif;
-  color: #159957; }
+  color: #000000;
+  font-weight: 600;}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
